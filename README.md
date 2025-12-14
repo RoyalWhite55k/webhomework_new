@@ -1,4 +1,7 @@
 [README.md](https://github.com/user-attachments/files/24148967/README.md)
+**GitHub 仓库地址**：  
+https://github.com/RoyalWhite55k/webhomework_new
+
 # Web课程作业网站
 
 > 基于 ASP.NET WebForms 的课程实践项目，包含新闻管理与在线答题功能。
