@@ -1,0 +1,27 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.Master.cs" Inherits="webhomework.SiteMaster" %>
+
+<!DOCTYPE html>
+<html>
+<head runat="server">
+    <meta charset="utf-8" />
+    <title>Web 作业</title>
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
+</head>
+<body>
+    <form runat="server">
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+            <a class="navbar-brand" href="index.aspx">Web作业</a>
+            <ul class="navbar-nav">
+                <li class="nav-item"><a class="nav-link" href="index.aspx">首页</a></li>
+                <li class="nav-item"><a class="nav-link" href="news_list.aspx">信息展示</a></li>
+                <li class="nav-item"><a class="nav-link" href="admin_news.aspx">信息管理</a></li>
+                <li class="nav-item"><a class="nav-link" href="exam.aspx">在线答题</a></li>
+            </ul>
+        </nav>
+
+        <div class="container mt-4">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+        </div>
+    </form>
+</body>
+</html>
