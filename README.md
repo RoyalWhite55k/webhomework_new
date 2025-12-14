@@ -1,4 +1,5 @@
 [README.md](https://github.com/user-attachments/files/24148967/README.md)
+
 **GitHub 仓库地址**：  
 https://github.com/RoyalWhite55k/webhomework_new
 
@@ -14,7 +15,7 @@ https://github.com/RoyalWhite55k/webhomework_new
 
 ## 功能特性
 
--  用户注册与登录（Session 登录控制）
+-  用户注册与登录
 -  新闻信息发布 / 编辑 / 删除（CRUD）
 -  新闻列表展示与个人新闻管理
 -  在线答题测试
