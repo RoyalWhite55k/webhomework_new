@@ -60,7 +60,7 @@ https://github.com/RoyalWhite55k/webhomework_new
 - Windows 操作系统  
 - Visual Studio 2019 / 2022  
 - **.NET Framework 4.x**
-- IIS Express（Visual Studio 自带）
+- IIS Express
 
 ⚠️ 本项目为 **ASP.NET WebForms 项目**，不能直接打开 `.aspx` 文件运行。
 
